@@ -1,0 +1,12 @@
+h1{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+}
+.contents{
+    font-size: 30px;
+    background-color: aqua;
+}
+.form{
+    background-image: url(https://prog-8.com/images/family.jpg);
+}
